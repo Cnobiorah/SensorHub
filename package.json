@@ -1,0 +1,26 @@
+{
+  "name": "sensor-ai-pro",
+  "version": "0.3.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "next": "^14.2.33",
+    "openai": "^4.68.4",
+    "rc-slider": "^11.1.9",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-select": "^5.10.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.2.5",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.10"
+  }
+}
